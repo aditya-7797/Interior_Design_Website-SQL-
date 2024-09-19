@@ -1,0 +1,36 @@
+[
+    {
+        "image" : "abt1.jpg",
+        "title" : "Mr.Mukesh Kumar",
+        "author": "Modern Interior Design: A Symphony of Style and Functionality"
+    },
+
+    {
+        "image" : "abt3.jpg",    
+        "title" : "Mr.Rajkumar Deshmukh",
+        "author": "Elevating Spaces: The Art of Wall Design"
+},
+
+{   
+    "image" : "abt5.jpg",    
+    "title" : "Mrs.Anjali Patil",
+    "author": "Culinary Haven: Exploring the Art and Science of Kitchen Design"
+},
+{
+    "image" : "abt6.jpg",        
+    "title" : "Mrs.Ankita Pandey",
+    "author": "Elevating Lifestyle: A Dive into Luxurious Interior Design"
+    },
+
+{
+    "image" : "abt2.jpg",    
+    "title" : "Mr.Krishnan Iyer",
+    "author": "Bathing in Luxury: Unveiling the Secrets of Stunning Bathroom Interior Design"
+},
+
+{   
+    "image" : "abt4.jpg",    
+    "title" : "Mrs.Madhuri Bhidhe",
+    "author": "Dreamy Retreats: Unveiling the Art of Bedroom Interior Design"
+}
+]

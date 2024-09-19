@@ -1,0 +1,44 @@
+<!-- <br>
+    <div class="row row-cols-1 row-cols-md-3">
+      <section>
+        <div>
+          <center>
+          <div class="d-lg-flex">
+          <div class="p-2 flex-fill">
+              <div class="card" style="width: 25rem;">
+                <img src="img1.jpg" class="card-img-top">
+                <div class="card-body">
+                  <h5 class="card-title">Title</h5>
+                  <p style="margin-bottom: 4px;">Author: John Doe</p>
+                  <p style="margin-bottom: 4px;">Date: March 1, 2024</p>
+                  <p>Content</p>
+                  <a href="blog_details.php?id=1" class="btn btn-primary">Read More</a>
+                </div>
+              </div>
+            </div>
+            <div class="p-2 flex-fill">
+              <div class="card" style="width: 25rem;">
+                <img src="img52.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Bathing in Luxury: Unveiling the Secrets of Stunning Bathroom Interior Design</h5>
+                  <p class="card-text">The bathroom, once a purely functional space, has transformed into a sanctuary of relaxation and rejuvenation. Modern bathroom interior design goes beyond mere utility, focusing on creating an atmosphere of serenity and style. In this blog post, we'll take a deep dive into the world of bathroom interior design, exploring key elements, trends, and innovative ideas </p>
+                  <a href="Blog5.html" class="btn btn-primary">Read More</a>
+                </div>
+              </div>
+            </div>
+            <div class="p-2 flex-fill">
+              <div class="card" style="width: 25rem;">
+                <img src="img65.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Dreamy Retreats: Unveiling the Art of Bedroom Interior Design</h5>
+                  <p class="card-text">Dive into the captivating world of bedroom design with our latest blog, where we explore the delicate balance between personal style and serene tranquility. Uncover the art of crafting a haven that not only mirrors individual tastes but also invites relaxation. From thoughtfully chosen aesthetics to mindful layouts, our insights guide you through creating a space where every element contributes to the ultimate retreat.</p>
+                  <a href="Blog6.html" class="btn btn-primary">Read More</a>
+                </div>
+              </div>
+            </div>
+          </div>
+            
+            </center>
+          </div>
+        </div>
+      </section> -->

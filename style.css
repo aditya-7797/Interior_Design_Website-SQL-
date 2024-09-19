@@ -1,0 +1,277 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+:root{
+    --Playfair: 'Playfair Display', serif;
+    --Quicksand: 'Quicksand', sans-serif;
+    --Roboto: 'Roboto', sans-serif;
+    --dark: #3c393d;
+    --exDark: #2b2b2b;
+}
+
+body{
+    line-height: 1.4;
+    color: var(--dark)
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: var(--Quicksand);
+}
+
+img{
+    width:100%;
+    display:block;
+}
+
+.container{
+    max-width: 1320px;
+    margin:0 auto;
+    padding:0 1.2rem;
+
+}
+
+header{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(137, 128, 128, 0.4)), url(img1.jpg) center/cover fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+
+} 
+/* .navbar{
+    background: rgba(0, 0, 0, 0.6);
+    padding: 1.2rem;
+}
+.navbar-brand{
+    color: #fff;
+    font-size: 2rem;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-family: var(--Playfair);
+    letter-spacing: 1px;
+}
+
+.navbar-nav{
+    padding: 0.8rem 0 0.2rem 0;
+    text-align: center;
+}
+.navbar-nav a{
+    text-transform: uppercase;
+    font-family: var(--Roboto);
+    letter-spacing: 1px;
+    font-weight: 500;
+    color: #ffffff;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0.4rem 0.1rem;
+    letter-spacing: 3px;
+    
+}
+.navbar-nav a:hover{
+    opacity: 0.7;
+}
+ */
+
+.banner{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+}
+.banner-title{
+    font-size: 3rem;
+    font-family: var(--Playfair);
+    line-height: 1.2;
+}
+.banner-title span{
+    font-family: var(--Playfair);
+    color: var(--exDark);
+}
+.banner p{
+    padding: 1rem 0 2rem 0;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    font-family: var(--Roboto);
+    font-weight: 300;
+    word-spacing: 2px;
+}
+.banner form{
+   
+    width: 100%;
+    background: #fff;
+    border-radius: 2rem;
+    padding: 0.6rem 1rem;
+    display: flex;
+}
+.search-input{
+    font-family: var(--Roboto);
+    font-size: 1.1rem;
+    width: 100%;
+    outline: 0;
+    padding: 0.6rem 0;
+    border: none;
+}
+.search-input::placeholder{
+    text-transform: capitalize;
+}
+.search-btn{
+    width: 40px;
+    font-size: 1.1rem;
+    color: var(--dark);
+    border: none;
+    background: transparent;
+    outline: 0;
+    cursor: pointer;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+    font-size: 22px;
+}
+
+.navbar-light .navbar-brand{
+    color: black;
+    font-size: 30px;
+}
+
+.cu{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(137, 128, 128, 0.4)), url(img35.jpg) center/cover fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+}
+
+.fomm{
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.form-label{
+    color: aliceblue;
+}
+
+.ghgh{
+    
+    color: #fff;
+}
+
+.title{
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.title h2{
+    font-family: var(--Playfair);
+    font-size: 2.4rem;
+}
+
+.title p{
+    text-transform: uppercase;
+    padding: 0.6rem 0;
+}
+
+.blog1{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(137, 128, 128, 0.4)), url(blog1.jpg) center/cover fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+}
+
+.Bloggg{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(137, 128, 128, 0.4)), url(img34.jpg) center/cover fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+}
+
+.blogpara{
+    margin-bottom: 4;
+}
+/*
+.card-img-top{
+    background: url(img7.jpg);
+    min-height: 34vh;
+
+}
+*/
+.form-control{
+    width: auto;
+    max-width: 100%;
+
+}
+
+.card-img-top2{
+    background: url(img8.jpg);
+    min-height: 34vh;
+}
+
+.about{
+background: none;
+}
+
+.blog2{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(137, 128, 128, 0.4)), url(blog3.jpg) center/cover fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+}
+
+.blog3{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(137, 128, 128, 0.4)), url(blog2.jpg) center/cover fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+}
+
+.pyb{
+    
+    background: url(img112.jpg) center/cover fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+}
+
+/* CSS for three cards in a single row */
+.container {
+    max-width: 100%;
+  }
+  
+  /* Ensure each column takes up equal width */
+  .col {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+  
+  /* Ensure proper spacing between columns */
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+  
+  .card {
+    margin-bottom: 20px; /* Add margin between cards */
+  }
+  
+  .card-body {
+    padding: 1.25rem; /* Adjust padding as needed */
+  }
+
+  .abcd{
+    padding-left: 2rem;
+  }
+  
+
+
